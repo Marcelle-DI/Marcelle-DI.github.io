@@ -18,6 +18,9 @@
       font-size: 3.125rem;
       line-height: 3.125rem; }
   .navbar-dropdown .navbar-caption {
+    font-family: 'Jost', sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.5;
     font-weight: 700;
     white-space: normal;
     vertical-align: -4px;
